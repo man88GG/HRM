@@ -1,9 +1,0 @@
-D:\Escritorio\HRM\CapaControladorHRM\bin\Debug\CapaControladorHRM.dll
-D:\Escritorio\HRM\CapaControladorHRM\bin\Debug\CapaControladorHRM.pdb
-D:\Escritorio\HRM\CapaControladorHRM\obj\Debug\CapaControladorHRM.csprojAssemblyReference.cache
-D:\Escritorio\HRM\CapaControladorHRM\obj\Debug\CapaControladorHRM.csproj.CoreCompileInputs.cache
-D:\Escritorio\HRM\CapaControladorHRM\obj\Debug\CapaControladorHRM.dll
-D:\Escritorio\HRM\CapaControladorHRM\obj\Debug\CapaControladorHRM.pdb
-D:\Escritorio\HRM\CapaControladorHRM\bin\Debug\CapaModeloHRM.dll
-D:\Escritorio\HRM\CapaControladorHRM\bin\Debug\CapaModeloHRM.pdb
-D:\Escritorio\HRM\CapaControladorHRM\obj\Debug\CapaControladorHRM.csproj.CopyComplete

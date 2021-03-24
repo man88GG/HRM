@@ -1,6 +1,0 @@
-D:\Escritorio\HRM\CapaModeloHRM\bin\Debug\CapaModeloHRM.dll
-D:\Escritorio\HRM\CapaModeloHRM\bin\Debug\CapaModeloHRM.pdb
-D:\Escritorio\HRM\CapaModeloHRM\obj\Debug\CapaModeloHRM.csprojAssemblyReference.cache
-D:\Escritorio\HRM\CapaModeloHRM\obj\Debug\CapaModeloHRM.csproj.CoreCompileInputs.cache
-D:\Escritorio\HRM\CapaModeloHRM\obj\Debug\CapaModeloHRM.dll
-D:\Escritorio\HRM\CapaModeloHRM\obj\Debug\CapaModeloHRM.pdb
